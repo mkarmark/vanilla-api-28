@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "identityProviders": {
+      "github": {
+        "registration": {
+          "clientIdSettingName": "a39f145e4147eeb68b7f",
+          "clientSecretSettingName": "GITHUB_SECRET"
+        }
+      }
+    }
+  }
+}
