@@ -1,0 +1,6 @@
+"gitHub": {
+        "registration": {
+          "clientId": "321295f727f4d1abe0fe",
+          "clientSecretSettingName": "GITHUB_CLIENT_SECRET_APP_SETTING_NAME"
+        }
+      }
